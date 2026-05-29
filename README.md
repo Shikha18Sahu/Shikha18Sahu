@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on full-stack web development projects and improving real-world deployment skills<br>🤝 I’m looking to collaborate on MERN stack projects, open-source contributions, and impactful problem-solving apps<br>🌱 I’m currently learning advanced backend development, system design basics, and API optimization<br>💬 Ask me about JavaScript, React, Node.js, MongoDB, and building beginner-to-intermediate level projects<br>⚡ Fun fact: I debug faster after a coffee but still forget semicolons sometimes
+🔭 I’m currently working on full-stack web development projects and improving real-world deployment skills<br>🤝 I’m looking to collaborate on MERN stack projects, open-source contributions, and impactful problem-solving apps<br>🌱 I’m currently learning advanced backend development, system design basics, and API optimization<br>💬 Ask me about JavaScript, React, Node.js, MongoDB, and building beginner-to-intermediate level projects<br>⚡ Fun fact: I debug faster after a coffee but still forget semicolons sometimes.
 
 
 ## 🌐 Socials:
